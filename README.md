@@ -1,5 +1,3 @@
-### 💬 QuickChat README (Initial Draft)
-
 # 💬 QuickChat
 
 > A minimalist real-time chat app for quick and secure communication ⚡
